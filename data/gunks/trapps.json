@@ -1,42 +1,42 @@
 {
-  'routes': [
+  "routes": [
     {
-      'name': 'Bunny',
-      'difficulty': '5.3',
-      'quality': 2,
-      'protection': 'PG',
-      'variations': [
+      "name": "Bunny",
+      "difficulty": "5.3",
+      "quality": 2,
+      "protection": "PG",
+      "variations": [
         {
-          'name': "Bunny's Roof",
-          'difficulty': '5.5',
-          'quality': 3,
-          'protection': 'PG13'
+          "name": "Bunny's Roof",
+          "difficulty": "5.5",
+          "quality": 3,
+          "protection": "PG13"
         },
         {
-          'name': "Bunny's Escape",
-          'difficulty': '5.4',
-          'quality': 2,
-          'protection': 'PG13'
+          "name": "Bunny's Escape",
+          "difficulty": "5.4",
+          "quality": 2,
+          "protection": "PG13"
         }
       ]
     },
     {
-      'name': 'Retribution',
-      'difficulty': '5.10b',
-      'quality': 4,
-      'protection': 'G'
+      "name": "Retribution",
+      "difficulty": "5.10b",
+      "quality": 4,
+      "protection": "G"
     },
     {
-      'name': 'Horseman',
-      'difficulty': '5.5',
-      'quality': 3,
-      'protection': 'PG',
-      'variations': [
+      "name": "Horseman",
+      "difficulty": "5.5",
+      "quality": 3,
+      "protection": "PG",
+      "variations": [
         {
-          'name': 'Horseman Direct',
-          'difficulty': '5.6',
-          'quality': 4,
-          'protection': 'PG'
+          "name": "Horseman Direct",
+          "difficulty": "5.6",
+          "quality": 4,
+          "protection": "PG"
         }
       ]
     }
