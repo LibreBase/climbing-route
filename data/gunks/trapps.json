@@ -2,97 +2,145 @@
   "routes": [
     {
       "name": "Bunny",
-      "difficulty": "5.3",
-      "quality": 2,
-      "protection": "PG",
-      "variations": [
+      "pitches": [
         {
-          "name": "Bunny's Roof",
-          "difficulty": "5.5",
-          "quality": 3,
-          "protection": "PG13"
-        },
-        {
-          "name": "Bunny's Escape",
-          "difficulty": "5.4",
+          "difficulty": "5.3",
           "quality": 2,
-          "protection": "PG13"
+          "protection": "PG",
+          "variations": [
+            {
+              "name": "Bunny's Roof",
+              "difficulty": "5.5",
+              "quality": 3,
+              "protection": "PG13"
+            },
+            {
+              "name": "Bunny's Escape",
+              "difficulty": "5.4",
+              "quality": 2,
+              "protection": "PG13"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Retribution",
-      "difficulty": "5.10b",
-      "quality": 4,
-      "protection": "G"
+      "pitches": [
+        {
+          "difficulty": "5.10b",
+          "quality": 4,
+          "protection": "G"
+        }
+      ]
     },
     {
       "name": "Horseman",
-      "difficulty": "5.5",
-      "quality": 3,
-      "protection": "PG",
-      "variations": [
+      "pitches": [
         {
-          "name": "Horseman Direct",
-          "difficulty": "5.6",
-          "quality": 4,
-          "protection": "PG"
+          "difficulty": "5.5",
+          "quality": 3,
+          "protection": "PG",
+          "variations": [
+            {
+              "name": "Horseman Direct",
+              "difficulty": "5.6",
+              "quality": 4,
+              "protection": "PG"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Laurel",
-      "difficulty": "5.6",
-      "quality": 2,
-      "protection": "PG"
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 2,
+          "protection": "PG"
+        }
+      ]
     },
     {
       "name": "Clover",
-      "difficulty": "5.7",
-      "quality": 3,
-      "protection": "R"
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 3,
+          "protection": "R"
+        }
+      ]
     },
     {
       "name": "Rhododendron",
-      "difficulty": "5.5",
-      "quality": 1,
-      "protection": "G"
+      "pitches": [
+        {
+          "difficulty": "5.5",
+          "quality": 1,
+          "protection": "G"
+        }
+      ]
     },
     {
       "name": "Ken's Crack",
-      "difficulty": "5.7",
-      "quality": 3,
-      "protection": "G"
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 3,
+          "protection": "G"
+        }
+      ]
     },
     {
       "name": "Boston",
-      "difficulty": "5.4",
-      "quality": 3,
-      "protection": "PG13"
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 3,
+          "protection": "PG13"
+        }
+      ]
     },
     {
       "name": "P38",
-      "difficulty": "5.10b",
-      "quality": 3,
-      "protection": "PG"
+      "pitches": [
+        {
+          "difficulty": "5.10b",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
     },
     {
       "name": "Dennis",
-      "difficulty": "5.5",
-      "quality": 3,
-      "protection": "PG13"
+      "pitches": [
+        {
+          "difficulty": "5.5",
+          "quality": 3,
+          "protection": "PG13"
+        }
+      ]
     },
     {
       "name": "Belly Roll",
-      "difficulty": "5.4",
-      "quality": 3,
-      "protection": "PG"
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
     },
     {
       "name": "Classic",
-      "difficulty": "5.7",
-      "quality": 4,
-      "protection": "PG13"
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 4,
+          "protection": "PG13"
+        }
+      ]
     },
     {
       "name": "RMC",
