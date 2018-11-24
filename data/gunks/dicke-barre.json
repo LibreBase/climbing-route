@@ -1,0 +1,34 @@
+{
+  "routes": [
+    {
+      "name": "Cat's Meow",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 2,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Fine Pine Line",
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "G"
+        }
+      ]
+    },
+    {
+      "name": "Bolt Line",
+      "pitches": [
+        {
+          "difficulty": "5.8",
+          "quality": 2,
+          "protection": "PG"
+        }
+      ]
+    }
+  ]
+}

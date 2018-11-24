@@ -1,0 +1,132 @@
+{
+  "routes": [
+    {
+      "name": "First Day",
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "G",
+          "variations": [
+            {
+              "name": "First Day Direct",
+              "difficulty": "5.7",
+              "quality": 3,
+              "protection": "G/TR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reach Around",
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 3,
+          "protection": "G/TR"
+        }
+      ]
+    },
+    {
+      "name": "Klingon",
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 3,
+          "protection": "G/TR"
+        }
+      ]
+    },
+    {
+      "name": "Genuflect",
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG/TR"
+        }
+      ]
+    },
+    {
+      "name": "A Portrait of the Artist as a Young Man",
+      "pitches": [
+        {
+          "difficulty": "5.8",
+          "quality": 3,
+          "protection": "PG/TR"
+        }
+      ]
+    },
+    {
+      "name": "Cool Hand Luke",
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG/TR"
+        }
+      ]
+    },
+    {
+      "name": "Oops",
+      "pitches": [
+        {
+          "difficulty": "5.9",
+          "quality": 3,
+          "protection": "PG13/TR"
+        }
+      ]
+    },
+    {
+      "name": "Yellow Wallpaper",
+      "pitches": [
+        {
+          "difficulty": "5.9",
+          "quality": "3",
+          "protection": "PG/TR"
+        }
+      ]
+    },
+    {
+      "name": "Psycho Crack Left",
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 3,
+          "protection": "PG/TR"
+        }
+      ]
+    },
+    {
+      "name": "Psycho Crack Right",
+      "pitches": [
+        {
+          "difficulty": "5.8",
+          "quality": 3,
+          "protection": "PG/TR"
+        }
+      ]
+    },
+    {
+      "name": "Slot Machine",
+      "pitches": [
+        {
+          "difficulty": "5.5",
+          "quality": 3,
+          "protection": "R/TR"
+        }
+      ]
+    },
+    {
+      "name": "Golden Dream",
+      "pitches": [
+        {
+          "difficulty": "5.9",
+          "quality": 4,
+          "protection": "G/TR"
+        }
+      ]
+    }
+  ]
+}

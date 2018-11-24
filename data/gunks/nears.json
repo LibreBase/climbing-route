@@ -1,0 +1,49 @@
+{
+  "routes": [
+    {
+      "name": "Disneyland",
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Gelsa",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.4",
+          "quality": 3,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.4",
+          "quality": 4,
+          "protection": "G"
+        }
+      ]
+    },
+    {
+      "name": "Birdland",
+      "pitches": [
+        {
+          "difficulty": "5.8",
+          "quality": 3,
+          "protection": "PG/TR"
+        }
+      ]
+    }
+  ]
+}
