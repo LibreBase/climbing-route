@@ -39,6 +39,323 @@
           "protection": "PG"
         }
       ]
+    },
+    {
+      "name": "Laurel",
+      "difficulty": "5.6",
+      "quality": 2,
+      "protection": "PG"
+    },
+    {
+      "name": "Clover",
+      "difficulty": "5.7",
+      "quality": 3,
+      "protection": "R"
+    },
+    {
+      "name": "Rhododendron",
+      "difficulty": "5.5",
+      "quality": 1,
+      "protection": "G"
+    },
+    {
+      "name": "Ken's Crack",
+      "difficulty": "5.7",
+      "quality": 3,
+      "protection": "G"
+    },
+    {
+      "name": "Boston",
+      "difficulty": "5.4",
+      "quality": 3,
+      "protection": "PG13"
+    },
+    {
+      "name": "P38",
+      "difficulty": "5.10b",
+      "quality": 3,
+      "protection": "PG"
+    },
+    {
+      "name": "Dennis",
+      "difficulty": "5.5",
+      "quality": 3,
+      "protection": "PG13"
+    },
+    {
+      "name": "Belly Roll",
+      "difficulty": "5.4",
+      "quality": 3,
+      "protection": "PG"
+    },
+    {
+      "name": "Classic",
+      "difficulty": "5.7",
+      "quality": 4,
+      "protection": "PG13"
+    },
+    {
+      "name": "RMC",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.5",
+          "quality": 3,
+          "protection": "PG13"
+        },
+        {
+          "difficulty": "5.2",
+          "quality": 1,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Baby",
+      "pitches": [
+        {
+          "difficulty": "5.5",
+          "quality": 4,
+          "protection": "PG13"
+        },
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Son of Easy O",
+      "pitches": [
+        {
+          "difficulty": "5.8",
+          "quality": 4,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Sixish",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 3,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.2",
+          "quality": 1,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.3",
+          "quality": 2,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Bloody Bush",
+      "pitches": [
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "G"
+        },
+        {
+          "difficulty": "5.5",
+          "quality": 2,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Shockley's Ceiling",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 1,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.4",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.7",
+          "quality": 4,
+          "protection": "G"
+        }
+      ]
+    },
+    {
+      "name": "MF",
+      "pitches": [
+        {
+          "difficulty": "5.9",
+          "quality": 4,
+          "protection": "PG13"
+        }
+      ]
+    },
+    {
+      "name": "Beginner's Delight",
+      "pitches": [
+        {
+          "difficulty": "5.3",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.4",
+          "quality": 3,
+          "protection": "R"
+        },
+        {
+          "difficulty": "5.3",
+          "quality": 1,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Minty",
+      "pitches": [
+        {
+          "difficulty": "5.3",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.3",
+          "quality": 4,
+          "protection": "G"
+        },
+        {
+          "difficulty": "5.3",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Madame Grunnebaum's Wulst",
+      "pitches": [
+        {
+          "difficulty": "5.3",
+          "quality": 2,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.6",
+          "quality": 1,
+          "protection": "PG13"
+        },
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "V3",
+      "pitches": [
+        {
+          "difficulty": "5.7",
+          "quality": 3,
+          "protection": "PG13"
+        }
+      ]
+    },
+    {
+      "name": "Moonlight",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": 2,
+          "protection": "PG13"
+        },
+        {
+          "difficulty": "5.5",
+          "quality": 4,
+          "protection": "R"
+        }
+      ]
+    },
+    {
+      "name": "High Exposure",
+      "pitches": [
+        {
+          "difficulty": "5.3",
+          "quality": 3,
+          "protection": "PG"
+        },
+        {
+          "difficulty": "5.7",
+          "quality": 4,
+          "protection": "G"
+        }
+      ]
+    },
+    {
+      "name": "Ant's Line",
+      "pitches": [
+        {
+          "difficulty": "5.9",
+          "quality": 3,
+          "protection": "G"
+        }
+      ]
+    },
+    {
+      "name": "Bonnie's Roof",
+      "pitches": [
+        {
+          "difficulty": "5.8",
+          "quality": 4,
+          "protection": "G"
+        },
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG"
+        }
+      ]
+    },
+    {
+      "name": "Sundance",
+      "pitches": [
+        {
+          "difficulty": "5.4",
+          "quality": "1",
+          "protection": "PG13"
+        },
+        {
+          "difficulty": "5.6",
+          "quality": 3,
+          "protection": "PG13",
+          "variations": [
+            {
+              "name": "Moondance",
+              "difficulty": "5.7",
+              "quality": 4,
+              "protection": "PG13"
+            },
+            {
+              "name": "Raindance",
+              "difficulty": "5.6",
+              "protection": "PG13"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
